@@ -12,7 +12,7 @@ var infolinks_wsid = 0;
 <hr/>
 
 <textarea id="words" rows="10" cols="20">Enter comment</textarea>
-<input type="button" onclick="getwords()" value="Enter" /> <br>
+<input type="button" onclick="getwords()" value="Submit" /> <br>
 <p id="para"></p>
 </form>
 
@@ -20,7 +20,7 @@ var infolinks_wsid = 0;
 function getwords() {
   text = words.value;
   document.getElementById("para").innerHTML += '<p>'+text
-  document.getElementById("words").value = "enter"
+  document.getElementById("words").value = "Submit"
 }
 </script>
 </html>
