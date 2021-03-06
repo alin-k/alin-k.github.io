@@ -18,6 +18,6 @@ var c = document.getElementById("c").innerHtml=c;
 </script>
 <input type="text" id="n" placeholder="what is your name?" reqiured/>
 <br/>
-<textarea id="c" required/>
-</html>
+<textarea id="c" required cols=50 rows=20> </textarea>
+
 
