@@ -11,14 +11,16 @@ var infolinks_wsid = 0;
 </body>
 <hr/>
 
-<input type="text" id="n" placeholder="what is your name?" reqiured/>
-<br/>
-<textarea id="c" required cols=50 rows=20> </textarea>
-<button type="submit" onclick="p()" >Submit</button>
-<script>
-function p() {
-var n= document.getElementById("n").innerHtml=n;
-document.write("/n");
-var c = document.getElementById("c").innerHtml=c;
+<textarea id="words" rows="10" cols="20">Enter comment</textarea>
+<input type="button" onclick="getwords()" value="Enter" /> <br>
+<p id="para"></p>
+</form>
+
+<script type="text/javascript">
+function getwords() {
+  text = words.value;
+  document.getElementById("para").innerHTML += '<p>'+text
+  document.getElementById("words").value = "enter"
+}
 </script>
 </html>
