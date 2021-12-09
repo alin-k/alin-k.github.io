@@ -40,7 +40,7 @@ https://drive.google.com/uc?export=view&id=15UICbvwQwD25J4vHWORag2U_dq4ZCSUM" wi
 </center>
 <center>
 <a href="freespinscasinoo">
-<img src=" https://drive.google.com/uc?export=view&id=15MnFT4oX6z3whaFdUVlKiyNPh8XvGw8z"width=auto height=auto/>
+<img src=" https://drive.google.com/uc?export=view&id=15MnFT4oX6z3whaFdUVlKiyNPh8XvGw8z" width=auto height=auto/>
 </a>
 </center>
 <center>
