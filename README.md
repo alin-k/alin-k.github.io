@@ -24,7 +24,7 @@ https://drive.google.com/uc?export=view&id=	15UICbvwQwD25J4vHWORag2U_dq4ZCSUM" w
 	</center>
 	<br>
 	<center>
-	<a href="https:www.alinpub938588.github.io">
+	<a href="https://www.alinpub938588.github.io">
 	<img src= "https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" />
 	</a>
 </center>
