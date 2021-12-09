@@ -25,12 +25,12 @@ https://drive.google.com/uc?export=view&id=15UICbvwQwD25J4vHWORag2U_dq4ZCSUM" wi
 	<br>
 	<center>
 	<a href="https://www.alinpub938588.github.io">
-	<img src= "https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" width=auto height=auto />
+	<img src="https://drive.google.com/uc?export=view&id=15Ddh-RlcgTwJfgilkQFdS-v0A2Py5OZi" width=auto height=auto />
 	</a>
 </center>
 <center>
 <a href="bovadacasinoo">
-<img src=" https://drive.google.com/uc?export=view&id=15ceol0wgPWCdhyMSAzFDjoWOQKdW24OG"width=auto height=auto />
+<img src=" https://drive.google.com/uc?export=view&id=15ceol0wgPWCdhyMSAzFDjoWOQKdW24OG" width=auto height=auto />
 </a>
 </center>
 <center>
