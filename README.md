@@ -12,10 +12,15 @@
 	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-aweasome/4.7.0/css/fint-awesome.min.css" type="text/css"/>
  </head>
 	 <body>
+<p style="font-size:auto">
+Hello every one , welcome to the<b> Casino World.</b>
+If you need to know more about casinos .<b>Try out these casino rewiew sites below .</b>
+Thank you.</p>
+<br>
 	 <center>
 	<h1><b>HOME</b></h1>
 	</center>
-	<br>
+	
 	<center>
 	<a href="europa asinoo">
 	<img src="
