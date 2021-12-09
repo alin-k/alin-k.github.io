@@ -35,7 +35,7 @@ https://drive.google.com/uc?export=view&id=	15UICbvwQwD25J4vHWORag2U_dq4ZCSUM" w
 </center>
 <center>
 <a href="betwaycasinoo">
-<img https://drive.google.com/uc?export=view&id=15UI2-Mb9um9tTH5x70SSgYFm0TOMT6CG"/>
+<img src=" https://drive.google.com/uc?export=view&id=15UI2-Mb9um9tTH5x70SSgYFm0TOMT6CG"/>
 </a>
 </center>
 <center>
