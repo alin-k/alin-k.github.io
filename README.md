@@ -12,7 +12,7 @@
 	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-aweasome/4.7.0/css/fint-awesome.min.css" type="text/css"/>
  </head>
 	 <body>
-
+<img align="left" src=".  https://drive.google.com/file/d/https://drive.google.com/uc?export=view&id=19DgGXj2DCsq72nhjtNrsHRbtKx4zcMz0" width=50 height=50/>
 	 <center>
 	<h1><b>HOME</b></h1>
 	</center>
