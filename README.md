@@ -56,7 +56,8 @@ https://drive.google.com/uc?export=view&id=15UICbvwQwD25J4vHWORag2U_dq4ZCSUM" wi
 </center>
 
 <center>
-<img align="left" src="https://drive.google.com/uc?export=view&id=19DgGXj2DCsq72nhjtNrsHRbtKx4zcMz0" width=50 height=50/>
+<img src="https://drive.google.com/uc?export=view&id=19DgGXj2DCsq72nhjtNrsHRbtKx4zcMz0" width=50 height=50/>
+<p>Casino World</p>
 </center>
 	 </body>
  </html>
